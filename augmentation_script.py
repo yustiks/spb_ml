@@ -1,7 +1,6 @@
 # this script take one object from the image and create different locations for it in different background
 import cv2
-#img_name = str(input('input img name: '))
-img_name = 'img_3'
+img_name = str(input('input img name: '))
 img = cv2.imread(img_name + '.JPG')
 with open(img_name + '.txt') as f:
     content = f.readlines()
