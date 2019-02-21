@@ -1,11 +1,6 @@
 # spb_ml
-hackathon in Saint-Petersburg
-I follow the article:
+Machine learning hackathon in Saint-Petersburg
 
-Annotation: 
-signboard 0
-win_ad 1
-cantilever 2
 
 
 <a href="https://aimeos.org/">
@@ -29,6 +24,16 @@ The main idea of the task is to improve the view of the city: today the advertis
 ## Dataset
 
 We prepared the dataset for 3 classes of banner: signboard; win_ad; cantilever. We also created description for the objects in images as YOLO needs.
+
+
+Annotation: 
+
+signboard 0
+
+win_ad 1
+
+cantilever 2
+
 
 The dataset with descriptions can be downloaded here (https://drive.google.com/drive/folders/11lwA99sJSNqYJc_d5IMEyavsHa_PxUAJ?usp=sharing).
 
