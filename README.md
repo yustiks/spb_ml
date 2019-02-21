@@ -40,7 +40,7 @@ The dataset with descriptions can be downloaded here (https://drive.google.com/d
 
 ### Running the training
 
-Download Yolo_Darknet_yolo_train.ipynb and run in google collab step by step. You should download the data into the folder data/obj in google collab. 
+Download Yolo_Darknet_yolo_train.ipynb and run in google collab step by step. You should download the data into the folder data/obj in google collab.  Training set and test set were splitted 90% to 10%. 
 
 ### Results
 
